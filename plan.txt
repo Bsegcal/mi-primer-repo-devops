@@ -1,0 +1,4 @@
+Semana 1-2: Git y GitHub
+Semana 3: Fastify
+Semana 4-6: AWS Cloud Practitioner
+...
